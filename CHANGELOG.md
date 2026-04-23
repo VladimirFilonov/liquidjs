@@ -1,3 +1,10 @@
+## [10.25.7](https://github.com/harttle/liquidjs/compare/v10.25.6...v10.25.7) (2026-04-23)
+
+
+### Bug Fixes
+
+* **filters:** support Buffer input in base64_encode to prevent binary data corruption ([#881](https://github.com/harttle/liquidjs/issues/881)) ([0ee6dbb](https://github.com/harttle/liquidjs/commit/0ee6dbb511aa926f6d490293282060abf3bab37f))
+
 ## [10.25.6](https://github.com/harttle/liquidjs/compare/v10.25.5...v10.25.6) (2026-04-19)
 
 
